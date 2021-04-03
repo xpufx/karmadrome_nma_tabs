@@ -1,0 +1,119 @@
+ 
+ New Model Army - Lights go out
+ ------------------------------
+
+ Tabbed by Bjoern Ahrens (nma-tabs@gmx.de).
+ 
+ This is an acoustic version for one guitar as played by Justin Sullivan
+ at a Red Sky Coven gig in Bonn, Germany 2004.
+ 
+capo on 1st fret. All notes relative to capo.
+(the album version would have capo on 3rd fret)
+
+The Chords (in order of appearance):
+--------------
+B5    [x2440x]   
+B5/C# [x4440x]
+B5*   [x2040x]
+D6*   [x0040x}
+F#m   [2442xx]
+E     [0221xx]
+G#m   [4664xx]
+D5/A  [x0023x]
+A5    [x022xx]
+C#m   [x4665x]
+Em*   [x7998x]
+G     [3554xx]
+B5**  [x2240x]
+F#*   [x9-11-11-11x]
+E*    [x7999x]
+
+
+The Riffs:
+------------------------
+[Riff A]:
+[B5][B5/C#][B5*][B5/C#]
+[B5][B5/C#][B5*][B5/C#]
+[D6*][B5/C#][B5*][B5/C#]
+[B5][B5/C#][B5*][B5/C#]
+
+[Riff B]:
+[F#m][E][G#m][D5/A]
+[F#m][A5]
+
+[Bridge]:
+[F#m][C#m][Em*][F#m]
+[F#m][C#m][Em*][F#m]
+[F#m][G][B5][B5**]
+[F#m][G][B5][B5**]
+[F#*][E*] 4x
+
+-----
+[Riff A] 1x
+
+[Riff A]
+I went to my mother, said - please make me king
+I went to my mother, said - I've got to be king
+[Riff B]
+She said son - well you've got to wait your turn
+Patience is a virtue that you never seemed to learn
+You were born with nothing, to nothing you'll return 
+
+[Riff A]
+Now, now the lights go out - there's no warning
+Now, now the lights go out - there's no reason
+Now, now the voices cry - we don't need you now
+
+[Riff A]
+I went to my father, said - please make me king
+Went to my father, said - I've got to be king
+[Riff B]
+He said son - you've got to do your time
+I've done fifty-three years and I haven't yet done mine
+You're just one of the millions waiting in line
+
+[Riff A]
+Now, now the lights go out - there's no warning
+Now, now the lights go out - there's no reason
+Now, now the voices cry - we don't need you now
+
+
+[F#m]
+History gave us meaning, gave us a place
+[C#m]
+Gave my father reasons for the lines on his face
+       [Em*]   
+But we asked for the money and money they gave
+    [F#m]   
+And God, how that made us easy to enslave
+   [F#m] 
+So today at the office, we picked up the cheque
+    [C#m]
+The handshake of gold, the stab in the back
+    [Em*]
+The old men went home silent and bowed
+    [F#m]
+The young men went drinking, drowning it out
+            [F#m]   [G]
+So in every street, 
+       [B5]    [B5**]
+in every town,
+        [F#m]              [G]        
+comes some young pretender
+     [B5]                   [B5**]
+Just gunning, gunning for a crown - take it- 
+
+[F#*][E*] 4x
+take it
+
+[Riff A]
+Now, now the lights go out - there's no warning
+Now, now the lights go out - there's no reason
+Now, now the voices cry - we don't need you
+Now, now the lights go out - there's no warning
+Now, now the lights go out - there's no reason
+Now, now the voices cry - we don't need you now
+
+[Riff A]
+
+end on [B5]

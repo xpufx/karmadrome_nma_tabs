@@ -1,0 +1,154 @@
+
+ New Model Army - Higher Wall 
+ ----------------------------
+
+ Tabbed by Bjoern Ahrens (nma-tabs@gmx.de)
+ Acoustic live version, taken from the recent Justin Sullivan & Friends tour 2003.
+ They may differ slightly from the recorded version.
+
+
+ Capo 5th fret. All notes and chords relative to capo.
+
+ **UPDATE**: corrected the intro riff.
+
+unusual chords:
+[Cmaj7/G]  332000
+[Dsus2/F#] 200230
+[B?]       x20210
+[Eb]       x68886
+
+-----------------------------------
+
+Additional notes:
+----------------
+Intro:
+On the original version, there are noticeably lower bass notes, which means on
+the album the intro is played without capo. Live, however, I've seen him play it
+with capo, so I'll give you an idea of the intro the way I play it, so you can play
+it on capo.
+
+Verse:
+There are occasional hammer-ons, on the [Em] 0h2 on A+D String; on [C/G] 0h2 on the 
+D-String, listen to the original to figure out where it goes..)
+
+Bridge:
+It's all barré chords (except for the A, obviously)
+
+----------------------------------
+
+
+Intro:
+-------
+
+e|-0------0-----|---0-0-------0---0-|---0---0-0-0---0---0-0-0-|
+B|-0------0-----|---0---0-----0---0-|---0---0-0-0---0---0-0-0-|
+G|-0------0-----|---0-----0---0---0-|---0---0-0-0---0---0-0-0-| play 2x
+D|-2--0h2-2-----|---2-------2-2---2-|---0---0-0-0---2---2-2-2-|
+A|-2--0h2-2-0h2-|-3-3-------------3-|---2---2-2-2-4-----4-4-4-|
+E|-0------------|-------------------|-3-----3-3-3-------------|
+
+then [Em] (with an occasional hammer-on from fret 0 to 2 on the D and A String)
+
+
+
+     [Em]
+We're out here on the borders with our favourite few possessions
+[F]                                 [C/G]
+Trading stories whispered round the fire
+   [Em]
+As shadows in the searchlights, mugshots in the files
+[F]                             [C/G]
+Waiting in the camps behind the wire
+[Cmaj7/G]                     [Dsus2/F#]
+Kick the door until it opens, what you have you cannot hold
+[Cmaj7/G]                     [Dsus2/F#]
+We are young, forever hungry, you are fat and growing old 
+
+
+Chorus:
+-------
+[Am]      [B?]    [C]    [G]     [Am]   [B?]    [C]    [G]
+And every day you try to build a higher wall, a higher wall   [2x]
+
+[G], [Eb]
+
+
+   [Em]
+We pick the leaves of coca, we stack the crates of cola
+   [F]                            [C/G]
+We wait upon the tables where you dine
+    [Em]
+And learn from you not to accept the little that we're given
+   [F]                               [C/G]
+To take the piece of silver where we can
+    [Cmaj7/G]                     [Dsus2/F#]
+Now clutching at these papers in another office line
+      [Cmaj7/G]                       [Dsus2/F#]
+We're staring from the darkness up at windows filled with light 
+
+
+Chorus:
+-------
+[Am]      [B?]    [C]    [G]     [Am]   [B?]    [C]    [G]
+And every day you try to build a higher wall, a higher wall     [4x]
+
+[G], [F#]
+
+
+Bridge:
+-------
+[B]           [A]             [G#]
+In my town we used to pray to idols sent from far away
+[B]                 [A]            [Eb]
+From out beyond the dusty days, we heard your voices call
+[B]                  [A]
+And in your town the streets are cleaned
+[G#]
+The order stands, the sirens scream
+[B]                                      [Eb]
+You talk of peace, vacation dreams - and reinforce the wall
+
+
+Solo part:
+----------
+(This is the way Justin plays it with one guitar, a more accurate solo might follow)
+
+Simply play the verse ([Em], [Em], [F], [C/G]), except for those Variations on [Em]
+
+e|-0---0---0-|-0---0---0-|
+B|-0---0---0-|-0---0---0-|
+G|-0---0---0-|-0---0---0-|
+D|-5---4---2-|-5---4---2-|
+A|-7---5---2-|-7---5---2-|
+E|-0---0---0-|-0---0---0-|
+
+and, at the second time:
+
+e|-0---0---0-|-0---0---0-|
+B|-0---0---0-|-0---0---0-|
+G|-0---0---0-|-0---0---0-|
+D|-9---7---5-|-9---7---5-|
+A|10---9---7-|10---9---7-|
+E|-0---0---0-|-0---0---0-|
+
+
+    [Cmaj7/G]                     [Dsus2/F#]
+Now in the queues at immigration, in the border zone
+   [Cmaj7/G]                  [Dsus2/F#]
+We are your bastard children, all coming home 
+
+Chorus:
+--------
+
+And every day you try to build a higher wall, a higher wall
+Every day you try to build a higher wall, a higher wall
+
+But your money cannot stop us
+And you violence cannot stop us
+No you will never stop us with your higher wall, your higher wall
+     [Am]          [G]
+your higher wall
+     [Am]          [G]
+your higher wall
+
+[Am], [G], [F], end on [H]

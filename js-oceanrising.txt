@@ -1,0 +1,93 @@
+
+ Justin Sullivan / Ocean Rising
+ ------------------------------
+
+ Tabbed by Bjoern Ahrens (nma-tabs@gmx.de)
+ 
+ ***Dec 6, 2009: corrected the last chord of the outro-riff***
+
+The chords as used here:
+
+D:    xx0230 (Dsus2)
+C:    x32030 (Cadd9)
+G:    3x0030 
+D/Bb: x10230 (Dsus2/Bb)
+D/F:  1x0230 (Dsus2/F)
+
+
+I will only use the simple chord names in the tab, (i.e. D/Bb for Dsus2/Bb)
+
+Intro: lots of D5
+
+(1st verse is mainly powerchords)
+
+
+               [D]           [C]             [G]
+I dream of the ocean and the beautiful skies rolling out to sea
+               [D]           [C]             [G]
+I dream of the ocean and the rip of the tide west of Finnistair
+[D]                     [C]           [G]
+The weight of the water pouring down, holding on to me
+[D/Bb]                [D/F]   [G]
+I dream of the ocean, rising, rising
+[D/Bb]                [D/F]   [G]
+I dream of the ocean, rising, rising
+
+
+               [D]                 [C]       [G]
+I dream of the ocean - through the night the ghosts are sailing still
+                [D]                 [C]                 [G]
+The James Caird steering east by north-east through the wild Atlantic swell
+            [D]                [C]                [G] 
+The men lie soaked and cold beneath the sail on a bed of ballast stone
+              [D/F]
+They hear the boss cry out - I can see them now, 
+    [G]
+the snow-capped peaks of land
+               [D/Bb] [D/F]   [G]
+But it was the ocean, rising, rising
+                     [D]   [C] 
+A forty foot wall of water crashing down
+     [G]
+They held their breath and prayed to god
+       [D]          [C]   [G]
+in the hour of death - To save them
+         [D/Bb] [D/F]   [G]
+From the ocean, rising, rising
+               [D/Bb] [D/F]   [G]
+I dream of the ocean, rising, rising
+
+[D], [C], [G]   2x
+
+           [Am]           [C]
+And so the years flow and journey's end
+    [G]
+The old crew sailed south again
+         [D]                    [C]
+And they buried the boss by the melting snow
+       [G]
+In the summer winds on the island
+            [D/F]
+And now the ice it cracks and falls away,
+[G]
+driven in the storms
+         [D]     [C]          [G]
+And I'll be there - where the sky touches the sea
+                   [D]             [C]             [G]
+At the edge of the ocean where the beautiful world fades into the grey
+               [D/Bb] [D/F]   [G]
+I dream of the ocean, rising, rising
+               [D/Bb] [D/F]   [G]
+I dream of the ocean, rising, rising
+               [D/Bb] [D/F]   [G]
+I dream of the ocean, rising, rising
+
+Outro:
+------
+
+chords (play in this order):
+
+Dsus2:   xx0230
+Asus4:   x02230
+Dsus2/F: 1x0230
+D?:      xx0213

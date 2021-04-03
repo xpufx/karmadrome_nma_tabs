@@ -1,0 +1,107 @@
+
+ New Model Army - Deadeye
+ ------------------------
+
+ Acoustic version taken from the Justin Sullivan&Friends tour 2002.
+ This version might differ from the album version.
+ Tabbed by Bjoern Ahrens (nma-tabs@gmx.de)
+
+ the chords:
+-----------------
+[F#m]    (2442xx)
+[Em]     (0220xx)
+[G#m]    (4664xx)
+[C#sus2] (x4664x)
+[Dsus2]  (x5775x)
+[G#]     (4665xx)
+[F]      (1332xx)
+[D5]     (xx023x)
+[B]      (x2444x)
+[G]      (320033)
+[Em*]    (022000)
+[B5]     (x244xx)
+[Asus2]  (x0220x)
+-----------------
+
+[Bridge-Riff]:
+G|-------------------------6----|
+D|-4-3-2---------------2-0-6----|
+A|-------4-3-2-------------4----|
+E|-------------5-4-3-2----------|
+
+---------------------------------
+Note: [Em]-[F#m] means that there's a short [Em] before the measure starts.
+---------------------------------
+
+[Intro:] [Em]-[F#m][F#m][F#m][F#m] (4x)
+
+[Verse:]
+[Em]     [F#m]                                          [G#m]
+  To the thoughts of the many from the minds of the few
+[Em] [F#m]                          [G#m]
+     Voice of reason, censored view
+[Em]  [C#sus2]          
+  The truth is the News and the News is the truth
+   [Dsus2]                 [C#sus2]
+As if that'll do as a lame excuse
+[Em] [F#m]                                 [G#m]
+ For killing the slavers, taking the slaves
+[Em] [F#m]                                  [G#m]
+     Burying the dead, then robbing the graves
+[C#sus2]
+Stealing the modesty from heroes brave
+[Dsus2]                   [C#sus2]  [G#]
+Making the tears gush like waves
+
+[Chorus:]
+[F#m]   [F]                [D5]            [B]
+Deadeye watches, still the killing carries on
+[F#m]                    [F]            [D5]         [B]
+    To the rhythm of the gunfire and the voices of concern
+[F#m]   [F]               [D5]              [B]
+Deadeye claims to be some conscience for us all
+[F#m]           [F]             [D5]         [B]
+But I was never born to be some fly upon the wall 
+
+[F#m][F#m][F#m][F#m]-[Em] (4x)
+
+[Verse:]
+Window dressing and the tinsel wreath
+Stealing the pity and the widow's grief
+Sentimental with a furrowed brow
+Pinning the heart on the blooded sleeve 
+
+[Chorus:]
+Deadeye watches, still the killing carries on
+To the rhythm of the gunfire and the voices of concern
+Deadeye claims to be some conscience for us all
+But I was never born to be some fly upon the wall
+
+[G]                               [Em*]                [B5]   [Asus2] 
+And yes I've crouched beneath the glow - dazzled by it all
+[G]                         [Em*]              [B5]    [F]
+But this is not the world I know or people I recall. 
+
+[mute]
+To the thoughts of the many from the minds of the few:
+                               [Bridge-Riff]
+Voice of reason, censored view
+
+[C#sus2]
+A little knowledge is a dangerous thing
+[Dsus2]                           [C#sus2]   [G#]   
+Here is the butterfly, here's the wing 
+
+[Chorus:]
+Deadeye watches, still the killing carries on
+To the rhythm of the gunfire and the voices of concern
+Deadeye claims to be some conscience for us all
+But I was never born to be some fly upon the wall
+
+Deadeye watches, still the killing carries on
+To the rhythm of the gunfire and the voices of concern
+Deadeye watches, Deadeye watches
+[F#m]           [F]           [D5]    [B]          [F#m]
+      But I was never born to be some fly upon the wall
+
+End on [F#m]

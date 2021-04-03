@@ -1,0 +1,149 @@
+New Model Army - States Radio
+-----------------------------
+
+Acoustic Guitar arrangement by Bjoern Ahrens (nma-tabs@gmx.de)
+ 
+Standard Tuning.
+
+
+
+Main Melody Riff:
+-----------------
+
+e|-------------------------------
+B|-------------------------------
+G|-------------------------------
+D|-------------------------------
+A|-0---0---3-0-3-5---3-0-3---0-3-
+E|-------------------------------
+  
+Chords:
+-------
+
+[Asus2] x02200
+[Am]	x02210
+[Am/G]  3x2210
+[Am/C]  x32210
+[Dsus2] xx0230
+[F]     133211
+
+
+Riffs:
+------
+
+[Riff 1]: [Am][Am/G][Dsus2][F]
+[Riff 2]: [Am][Am/C][Dsus2][F]
+
+
+
+Arrangement & Lyrics:
+---------------------
+
+Intro: lots of [Asus2]
+
+[Asus2]	 88.2 is your Saviour station 
+	 God hangs like a shadow high above the nation
+	 Like a phantom hurricane 
+	 91.6 is Classic Soul 
+	 Obama flyer still hanging by the side of the road
+	 Like a long last prayer
+[Riff 1] And the pawn shops glisten like the porn girl stars
+	 And the cheap imitation armoured cars
+	 Roll up and down past empty bars
+	 Showing re-runs of the glory years
+[Riff 2] But now the Champion of All Time is getting battered and bruised
+	 The blows come raining down
+	 He's standing there terrified to lose
+	 But he's punch-drunk and he's going down
+
+[Riff 2]
+
+[Riff 1] 94.7 is the Weather Channel
+	 Floods and droughts and plagues straight out of the Bible
+	 And the scientists shake their heads
+[Riff 2] And the air-con unit rattles and dies
+	 The golf course green but the wells are dry
+	 All looking to heaven with anxious eyes
+	 As the vapour trails drift across cloudless skies
+
+[Riff 2]
+
+[Dsus2]	 96.4 is Classic Rock
+	 Some of the kids that were sent are not coming back
+	 It's like a ritual sacrifice
+[Riff 1] Pressed uniforms and body-bags
+	 And the smalltown church all decked with flags
+	 And the waiting beds unslept in 
+	 By the ghosts all up in Arlington
+[Riff 2] And as the leaves blow on an autumn day
+	 The funeral gathering kneels to pray
+	 Make it OK, make it OK, God, please, make it OK
+[Riff 2] 101-point-nothing is the shock jocks
+	 Where every week is Hate Week
+	 And we can scream and rage about everything
+	 Then get back in the box that they keep us in
+[Riff 2] As the free land stretches on
+	 Where the endless hopes are born
+	 All caught in a false dawn that lasts forever
+[Riff 2] And the free land stretches on
+	 Where the endless dreams are born
+	 All caught in a false dawn that lasts forever
+
+[Riff 1] 
+[Dsus2][F]
+
+Banjo Outro:
+------------
+
+it's hard to hear the banjo at first
+because of the fade in, so I start with
+the [Am/C]:
+
+e|---------------0-----------------|
+B|-------1---------------1---------|
+G|---2-------2-------2-------2---0-|
+D|-----2-------2-------2-------2---|
+A|-3------(3)------3-------3-------|
+E|---------------------------------|
+
+e|---------------0-----------------|
+B|-------0---------------2---------|
+G|---2-------2-------2-------2---0-|
+D|-----0-------0-------0-------0---|
+A|-2-------2-------2-------2-------|
+E|---------------------------------|
+
+e|-------------0-------------------|
+B|-------1-1h3---3-----1---0h1p0---|
+G|---2---------------2---2-------0-|
+D|-----2---------------2-----------|
+A|-0-------0-------0-------0-------|
+E|---------------------------------|
+
+e|-----------------3-----1-------0-|
+B|-------1-------------------------|
+G|---2-------2-------2-------2-----|
+D|-----3-------3-------3-------3---|
+A|---------------------------------|
+E|-1-------1-------1-------1-------|
+
+e|-----------------------0---------|
+B|-------0---------0-----------0---|
+G|---1-------1-------1-------1---0-|
+D|-----2-------2-------2-----------|
+A|---------------------------------|
+E|-0---------------0-------0-------|
+
+e|-----------0---------------------|
+B|-------1-----1-------------------|
+G|---2-----2-----2-----------------|
+D|-----2---------------------------|
+A|-0---------------0---------------|
+E|---------------------------------|
+
+
+[Riff 2] 2x
+[Riff 1]
+[Riff 2]
+
+End on [Am] 
