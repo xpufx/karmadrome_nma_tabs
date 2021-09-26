@@ -1,6 +1,6 @@
 # This is a mirror of Bjoern Ahrens's New Model Army tabs page from 2017.
 
-You can access the contents in the original web site format at : http://blog.xpufx.com/karmadrome_nma_tabs/
+You can access the contents in the original web site format at : https://karmadrome.xpufx.com
 Everything is the same as downloaded from the website rar dump aside from the warning at the top.
 
 Karmadrome's tabs are some of the most accurate and detailed for New Model Army songs. Unfortunately the site disappeared somewhere around 2017. I have tried to contact the site owner Bjoern Ahrens at that time but did not receive a response.
