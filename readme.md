@@ -8,4 +8,4 @@ He was nice enough to provide a link to download the whole site archive as a rar
 
 The site can still be accessed via archive.org at https://web.archive.org/web/20161223134336/http://home.arcor.de/karmadrome/
 
-This is just a copy. I am not claiming any ownership whatsoever.
+This is just a copy. I am not claiming any ownership whatsoever. Reproduced WITHOUT permission.
